@@ -1,7 +1,7 @@
 ### Testing out Angular Material Design
 
 # Project Setup
-+ Cloned test_angular_material_design
++ Cloned angular-seed (https://github.com/angular/angular-seed/)
 + Deleted .git
 + git init, yada yada yada
 + bower install angular-material
@@ -9,5 +9,5 @@
 + npm start
 
 # Other Notes
-I took the CSS that they had in the demo for material design
+I cloned the default styling from CSS that they had in the demo for material design (https://material.angularjs.org)
 
